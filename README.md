@@ -8,4 +8,9 @@ It is helpfull for blind and deaf people.
 - Built using Python
 
 ## Author
-Lakshmi
+Lakshmi<img width="1101" height="823" alt="output" src="https://github.com/user-attachments/assets/56a7b746-60a7-49f2-a30f-25e4cbd46fab" />
+<img width="1101" height="823" alt="Demo" src="https://github.com/user-attachments/assets/5118a706-91fa-4b4e-8f08-4934c255b280" />
+
+## Output Screenshot
+![Output](output.png)
+
