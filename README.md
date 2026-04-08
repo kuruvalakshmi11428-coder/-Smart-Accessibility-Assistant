@@ -1,2 +1,11 @@
-# -Smart-Accessibility-Assistant
-A Python project that helps improve accessibility using smart features.It helps to blind and deaf people.
+# Smart Accessibility Assistant
+
+This is a Python-based project designed to improve accessibility using simple and smart features.
+It is helpfull for blind and deaf people.
+## Features
+- User-friendly interface
+- Helps users with accessibility needs
+- Built using Python
+
+## Author
+Lakshmi
